@@ -64,7 +64,7 @@ function App() {
         <h1>You win!</h1>
         <h1>Your moves: {moves}</h1>
         <div className="button" onClick={() => resetGame()}>
-          Try Again
+          Try  Again
         </div>
        </div>
     </div>}
