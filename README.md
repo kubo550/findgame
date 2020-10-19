@@ -1,3 +1,6 @@
+# Find Game
+## Find in 2d array
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
